@@ -1,4 +1,4 @@
-# IsRum
+# IsRun
 
 This is a program in Delphi that indicates whether a program is running on Windows.
 If the program is running, it returns ERRORLEVEL 0, else it returns ERRORLEVEL 99.
